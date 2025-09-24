@@ -1,7 +1,6 @@
 # Espanso Configuration
 
-
-
+ 
 ## Features
 
 This configuration includes several categories of text expansions:
