@@ -1,56 +1,56 @@
-# Patrick's Espanso Configuration
+# Espanso Configuration
 
-A comprehensive text expansion configuration for [espanso](https://espanso.org/) - the cross-platform text expander.
 
-## 🚀 Features
+
+## Features
 
 This configuration includes several categories of text expansions:
 
-### 📝 **Base Expansions** (`base.yml`)
+###  **Base Expansions** (`base.yml`)
 - Common abbreviations and acronyms
 - Technical terms and shortcuts
 - Organizational terminology
 
-### 📅 **Date & Time** (`date_time.yml`)
+###  **Date & Time** (`date_time.yml`)
 - Dynamic date insertions
 - Time stamps
 - Meeting templates
 - Formatted date strings
 
-### 😊 **Emojis** (`emojis.yml`)
+###  **Emojis** (`emojis.yml`)
 - 100+ emoji shortcuts using `'` prefix
 - Common expressions and reactions
 - Professional and casual emojis
 - Special sequences like table flip `'flip` → (╯°□°)╯︵ ┻━┻
 
-### 🌍 **Foreign Etymology** (`foreign_etymology.yml`)
+###  **Foreign Etymology** (`foreign_etymology.yml`)
 - Accented characters and foreign terms
 - Proper spelling for non-English words
 - Special character combinations
 
-### 📖 **Long Words & Terms** (`long_words_or_terms.yml`)
+###  **Long Words & Terms** (`long_words_or_terms.yml`)
 - Technical terminology expansions
 - Industry-specific phrases
 - Complex word shortcuts
 
-### 🔧 **Miscellaneous** (`misc.yml`)
+###  **Miscellaneous** (`misc.yml`)
 - Various utility expansions
 - Special formatting
 - Custom shortcuts
 
-### ✨ **Stylization Corrections** (`stylization_corrections.yml`)
+###  **Stylization Corrections** (`stylization_corrections.yml`)
 - Common brand name corrections
 - Proper capitalization fixes
 - Trademark and copyright symbols
 
-### 🔣 **Symbols** (`symbols.yml`)
+###  **Symbols** (`symbols.yml`)
 - Mathematical symbols
 - Currency symbols
 - Arrow symbols
 - Keyboard shortcuts representation
 - Special characters
 
-### 🔤 **Typos** (`typos.yml`)
+###  **Typos** (`typos.yml`)
 - Common typo corrections
 - Frequently misspelled words
 - Auto-corrections for typing mistakes
@@ -138,7 +138,7 @@ Symbols use various prefixes:
 'copyright → ©
 ```
 
-## 🔍 Troubleshooting
+##  Troubleshooting
 
 ### Expansions Not Working?
 1. Check if espanso is running: `espanso status`
@@ -154,17 +154,6 @@ Symbols use various prefixes:
 - **Word boundaries**: Expansions require word separators to trigger
 - **Application compatibility**: Some secure applications may block text injection
 - **Timing**: Try typing slower if expansions aren't triggering
-
-## 🤝 Contributing
-
-Feel free to suggest improvements or report issues! Common additions:
-- New emoji shortcuts
-- Industry-specific terminology
-- Additional symbols or special characters
-
-## 📄 License
-
-This configuration is free to use and modify for personal or commercial purposes.
 
 ## 🔗 Resources
 
